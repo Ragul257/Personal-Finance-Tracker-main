@@ -1,5 +1,5 @@
 # Personal-Finance-Tracker
-
+ 
 # This Python personal finance tracker uses pandas to record and manage income and expenses. It allows users to add transactions, categorize them, and calculate their balance. The script can:
 
 # Add transactions (date, category, description, amount, type: income/expense).
