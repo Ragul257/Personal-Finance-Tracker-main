@@ -1,14 +1,15 @@
 # Personal-Finance-Tracker
 
-# 💻 Launch Your Software Development Career Today!  
+# This Python personal finance tracker uses pandas to record and manage income and expenses. It allows users to add transactions, categorize them, and calculate their balance. The script can:
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
+# Add transactions (date, category, description, amount, type: income/expense).
 
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
 
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+#Calculate total income, expenses, and balance.
+
+#Export data to a CSV file for future reference.
+
+
+#Enhancements can include a GUI (Tkinter), database storage (SQLite/MySQL), and data visualization (Matplotlib) for better insights
+
+   
